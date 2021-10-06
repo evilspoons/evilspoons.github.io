@@ -5,3 +5,4 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       title: "4096.ca"
+      tagline: "12-bit ready since 2021"
